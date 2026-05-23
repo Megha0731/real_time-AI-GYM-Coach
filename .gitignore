@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Database
+data.db
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model/cache/temp files
+*.tmp
+
+# VS Code settings (optional)
+.vscode/
+
+# Python build files
+build/
+dist/
+*.egg-info/
